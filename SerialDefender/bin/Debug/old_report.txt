@@ -1,0 +1,16 @@
+----CPU:----
+Name: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz, Serial: BFEBFBFF000A0653
+------------
+----Network:----
+Name: Intel(R) Ethernet Connection (12) I219-V, Serial: 3&11583659&0&FE
+Name: Intel(R) Wi-Fi 6 AX200 160MHz, Serial: 4&2AA9787F&0&00E0
+------------
+---Drives:--
+Drive name: B:, serial: 5&A924D9&0&000000
+Drive name: C:, serial: 5&24EBE803&0&000000
+Drive name: D:, serial: 5&A924D9&0&000000
+Drive name: S:, serial: 5&A924D9&0&000000
+------------
+----VGA:----
+Name: Name  -  NVIDIA GeForce GTX 1660 SUPER, Serial: 4&842DB2A&0&0008
+------------

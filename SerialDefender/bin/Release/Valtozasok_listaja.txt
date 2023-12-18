@@ -1,0 +1,84 @@
+3/3/2022 11:22:10 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+3/3/2022 11:22:20 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+3/3/2022 11:22:31 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+3/3/2022 11:22:41 Vizsgálat:
+Eltérések a régi loghoz képest: 3/3/2022 11:22:41
+A most vizsgált eszköz nem található a old_report.txt-ben:
+Drive name: E:, serial: 4C530000140208109575&0
+old_report fájl frissítve az új konfigra.
+
+3/3/2022 11:22:51 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+3/3/2022 11:23:02 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+3/3/2022 11:23:12 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+3/3/2022 11:23:22 Vizsgálat:
+Eltérések a régi loghoz képest: 3/3/2022 11:23:22
+Old_report.txt-ben található eszköz nem található a most vizsgált eszközök között:
+Drive name: E:, serial: 4C530000140208109575&0
+old_report fájl frissítve az új konfigra.
+
+3/3/2022 11:23:33 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+3/3/2022 11:23:43 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+3/3/2022 11:23:53 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+3/3/2022 11:24:03 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+3/3/2022 11:24:14 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+0001. 01. 01. 0:00:00 Vizsgálat:
+Eltérések a régi loghoz képest: 0001. 01. 01. 0:00:00
+A most vizsgált eszköz nem található a old_report.txt-ben:
+Name: Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz, Serial: BFEBFBFF000306C3
+A most vizsgált eszköz nem található a old_report.txt-ben:
+Name: Bluetooth Device (Personal Area Network), Serial: 6&1B42196C&0&2
+A most vizsgált eszköz nem található a old_report.txt-ben:
+Name: Realtek PCIe GbE Family Controller, Serial: 4&28F560F&0&00E6
+A most vizsgált eszköz nem található a old_report.txt-ben:
+Name: Broadcom 802.11n hálózati adapter, Serial: 4&1E1CCAF0&0&00E0
+A most vizsgált eszköz nem található a old_report.txt-ben:
+Name: Microsoft Wi-Fi Direct Virtual Adapter, Serial: 5&1F2DB101&0&11
+A most vizsgált eszköz nem található a old_report.txt-ben:
+Name: Microsoft Wi-Fi Direct Virtual Adapter #2, Serial: 5&1F2DB101&0&12
+A most vizsgált eszköz nem található a old_report.txt-ben:
+Drive name: C:, serial: 4&29882F75&0&000000
+A most vizsgált eszköz nem található a old_report.txt-ben:
+Name: Name  -  Intel(R) HD Graphics 4600, Serial: 3&11583659&0&10
+Old_report.txt-ben található eszköz nem található a most vizsgált eszközök között:
+Name: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz, Serial: BFEBFBFF000A0653
+Old_report.txt-ben található eszköz nem található a most vizsgált eszközök között:
+Name: Intel(R) Ethernet Connection (12) I219-V, Serial: 3&11583659&0&FE
+Old_report.txt-ben található eszköz nem található a most vizsgált eszközök között:
+Name: Intel(R) Wi-Fi 6 AX200 160MHz, Serial: 4&2AA9787F&0&00E0
+Old_report.txt-ben található eszköz nem található a most vizsgált eszközök között:
+Drive name: B:, serial: 5&A924D9&0&000000
+Old_report.txt-ben található eszköz nem található a most vizsgált eszközök között:
+Drive name: C:, serial: 5&24EBE803&0&000000
+Old_report.txt-ben található eszköz nem található a most vizsgált eszközök között:
+Drive name: D:, serial: 5&A924D9&0&000000
+Old_report.txt-ben található eszköz nem található a most vizsgált eszközök között:
+Drive name: S:, serial: 5&A924D9&0&000000
+Old_report.txt-ben található eszköz nem található a most vizsgált eszközök között:
+Name: Name  -  NVIDIA GeForce GTX 1660 SUPER, Serial: 4&842DB2A&0&0008
+old_report fájl frissítve az új konfigra.
+
+2023. 12. 18. 19:03:48 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+

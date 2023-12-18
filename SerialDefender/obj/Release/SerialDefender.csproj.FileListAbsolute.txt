@@ -1,0 +1,5 @@
+D:\VisualStudioProjects\C#\SerialDefender\SerialDefender\bin\Release\SerialDefender.exe
+D:\VisualStudioProjects\C#\SerialDefender\SerialDefender\bin\Release\SerialDefender.pdb
+D:\VisualStudioProjects\C#\SerialDefender\SerialDefender\obj\Release\SerialDefender.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\SerialDefender\SerialDefender\obj\Release\SerialDefender.exe
+D:\VisualStudioProjects\C#\SerialDefender\SerialDefender\obj\Release\SerialDefender.pdb

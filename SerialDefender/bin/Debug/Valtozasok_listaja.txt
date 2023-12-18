@@ -1,0 +1,224 @@
+1/1/0001 00:00:00 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:20:22 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:20:32 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:20:42 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:20:53 Vizsgálat:
+Eltérések a régi loghoz képest: 9/27/2021 14:20:53
+A most vizsgált eszköz nem található a old_report.txt-ben:
+Drive name: E:, serial: E0D55E6CE799E510B8500023&0
+old_report fájl frissítve az új konfigra.
+
+9/27/2021 14:21:03 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:21:13 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:21:24 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:21:34 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:21:44 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:21:55 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:22:05 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:22:15 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:22:26 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:22:36 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:22:46 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:22:56 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:23:07 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:23:17 Vizsgálat:
+Eltérések a régi loghoz képest: 9/27/2021 14:23:17
+A most vizsgált eszköz nem található a old_report.txt-ben:
+Drive name: F:, serial: FFFFFFFFFFFFEE20C00090CA&0
+old_report fájl frissítve az új konfigra.
+
+9/27/2021 14:23:27 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:23:38 Vizsgálat:
+Eltérések a régi loghoz képest: 9/27/2021 14:23:38
+Old_report.txt-ben található eszköz nem található a most vizsgált eszközök között:
+Drive name: E:, serial: E0D55E6CE799E510B8500023&0
+Old_report.txt-ben található eszköz nem található a most vizsgált eszközök között:
+Drive name: F:, serial: FFFFFFFFFFFFEE20C00090CA&0
+old_report fájl frissítve az új konfigra.
+
+9/27/2021 14:23:48 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:23:58 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:24:08 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:24:19 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:24:29 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:24:39 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:24:50 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:25:00 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:25:10 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:25:20 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:25:31 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:25:41 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:25:51 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:26:01 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:26:12 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:26:22 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:26:32 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:26:42 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:26:53 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:27:03 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:27:13 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:27:24 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:27:34 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:27:44 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:27:54 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:28:05 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:28:15 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:28:25 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:28:35 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:28:46 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:28:56 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:29:06 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:29:16 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:29:27 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:29:37 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:29:47 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:29:58 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:30:08 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:30:18 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:30:28 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+1/1/0001 00:00:00 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:31:23 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:31:34 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:31:44 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:31:54 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:32:04 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:32:15 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:32:25 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:32:35 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+
+9/27/2021 14:32:45 Vizsgálat:
+Nincs eltérés a legutóbbi vizsgálat óta.
+

@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\C#\PCDataCollector\PCDataCollector\bin\Debug\PCDataCollector.exe
+D:\VisualStudioProjects\C#\PCDataCollector\PCDataCollector\bin\Debug\PCDataCollector.pdb
+D:\VisualStudioProjects\C#\PCDataCollector\PCDataCollector\obj\Debug\PCDataCollector.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\PCDataCollector\PCDataCollector\obj\Debug\PCDataCollector.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\PCDataCollector\PCDataCollector\obj\Debug\PCDataCollector.exe
+D:\VisualStudioProjects\C#\PCDataCollector\PCDataCollector\obj\Debug\PCDataCollector.pdb

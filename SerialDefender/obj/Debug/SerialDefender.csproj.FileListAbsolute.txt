@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\C#\PCDataCollector\PCDataCollector\obj\Debug\SerialDefender.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\PCDataCollector\PCDataCollector\bin\Debug\SerialDefender.exe
+D:\VisualStudioProjects\C#\PCDataCollector\PCDataCollector\bin\Debug\SerialDefender.pdb
+D:\VisualStudioProjects\C#\PCDataCollector\PCDataCollector\obj\Debug\SerialDefender.exe
+D:\VisualStudioProjects\C#\PCDataCollector\PCDataCollector\obj\Debug\SerialDefender.pdb
+D:\VisualStudioProjects\C#\SerialDefender\SerialDefender\bin\Debug\SerialDefender.exe
+D:\VisualStudioProjects\C#\SerialDefender\SerialDefender\bin\Debug\SerialDefender.pdb
+D:\VisualStudioProjects\C#\SerialDefender\SerialDefender\obj\Debug\SerialDefender.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\C#\SerialDefender\SerialDefender\obj\Debug\SerialDefender.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\C#\SerialDefender\SerialDefender\obj\Debug\SerialDefender.exe
+D:\VisualStudioProjects\C#\SerialDefender\SerialDefender\obj\Debug\SerialDefender.pdb
